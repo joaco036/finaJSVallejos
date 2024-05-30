@@ -1,0 +1,17 @@
+{
+    "productos": [
+      {
+        "nombre": "yerba",
+        "precio": 3000
+      },
+      {
+        "nombre": "te",
+        "precio": 2000
+      },
+      {
+        "nombre": "cafe",
+        "precio": 1000
+      }
+    ]
+  }
+  
